@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| จิรายุ ภูมิเขต 6750162 | Team 14 | guthub/documentation| [example evidence](docs/evidence/example-student.md) | - |
 
 ---
 
